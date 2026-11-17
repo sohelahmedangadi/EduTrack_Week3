@@ -1,0 +1,501 @@
+student_id,name,email,city,profile,joined_date
+STU-0001,Priya Menon,priyamenon11@edutrack.in,Kolkata,Analytics Track,2024-07-23
+STU-0002,Rohan Verma,rohanverma12@edutrack.in,Mumbai,Career Switcher,2024-08-23
+STU-0003,Divya Nair,divyanair13@edutrack.in,Mumbai,Data Analyst Track,2024-03-29
+STU-0004,Kiran Patel,kiranpatel14@edutrack.in,Kolkata,Full Stack + ML,2024-04-01
+STU-0005,Sneha Joshi,snehajoshi15@edutrack.in,Ahmedabad,Career Switcher,2024-07-23
+STU-0006,Arjun Reddy,arjunreddy16@edutrack.in,Jaipur,Analytics Track,2024-08-09
+STU-0007,Ananya Iyer,ananyaiyer17@edutrack.in,Kolkata,Full Stack + ML,2024-08-05
+STU-0008,Vikram Singh,vikramsingh18@edutrack.in,Ahmedabad,Data Analyst Track,2024-07-02
+STU-0009,Pooja Sharma,poojasharma19@edutrack.in,Delhi,Career Switcher,2024-03-25
+STU-0010,Rahul Kumar,rahulkumar20@edutrack.in,Hyderabad,Career Switcher,2025-04-25
+STU-0011,Lakshmi Rao,lakshmirao21@edutrack.in,Kolkata,Full Stack + ML,2024-02-13
+STU-0012,Suresh Gupta,sureshgupta22@edutrack.in,Kochi,Full Stack + ML,2024-01-08
+STU-0013,Nisha Pillai,nishapillai23@edutrack.in,Chennai,Analytics Track,2025-01-06
+STU-0014,Aditya Bose,adityabose24@edutrack.in,Hyderabad,Career Switcher,2025-04-18
+STU-0015,Meena Thomas,meenathomas25@edutrack.in,Chennai,Career Switcher,2025-04-18
+STU-0016,Rajesh Nair,rajeshnair26@edutrack.in,Delhi,AI/ML Enthusiast,2024-05-12
+STU-0017,Kavitha Srinivas,kavithasrinivas27@edutrack.in,Mumbai,Data Analyst Track,2025-03-28
+STU-0018,Deepak Choudhary,deepakchoudhary28@edutrack.in,Mumbai,Career Switcher,2025-05-30
+STU-0019,Sunita Tiwari,sunitatiwari29@edutrack.in,Bengaluru,Data Analyst Track,2024-04-22
+STU-0020,Manoj Pandey,manojpandey30@edutrack.in,Mumbai,AI/ML Enthusiast,2025-04-30
+STU-0021,Geeta Malhotra,geetamalhotra31@edutrack.in,Hyderabad,Analytics Track,2025-03-11
+STU-0022,Sanjay Dubey,sanjaydubey32@edutrack.in,Mumbai,AI/ML Enthusiast,2024-11-13
+STU-0023,Anita Jain,anitajain33@edutrack.in,Bengaluru,Career Switcher,2025-01-25
+STU-0024,Varun Kapoor,varunkapoor34@edutrack.in,Mumbai,Full Stack + ML,2025-06-19
+STU-0025,Swati Mishra,swatimishra35@edutrack.in,Chennai,Analytics Track,2024-02-26
+STU-0026,Nikhil Chauhan,nikhilchauhan36@edutrack.in,Ahmedabad,Data Analyst Track,2024-09-20
+STU-0027,Ritu Aggarwal,rituaggarwal37@edutrack.in,Kolkata,Career Switcher,2024-05-09
+STU-0028,Ajay Bansal,ajaybansal38@edutrack.in,Ahmedabad,Full Stack + ML,2024-02-27
+STU-0029,Smita Desai,smitadesai39@edutrack.in,Jaipur,Data Analyst Track,2024-06-03
+STU-0030,Ravi Hegde,ravihegde40@edutrack.in,Kolkata,Career Switcher,2024-05-07
+STU-0031,Uma Krishnan,umakrishnan41@edutrack.in,Hyderabad,AI/ML Enthusiast,2024-05-27
+STU-0032,Dinesh Gowda,dineshgowda42@edutrack.in,Mumbai,Full Stack + ML,2024-06-30
+STU-0033,Rekha Rao,rekharao43@edutrack.in,Mumbai,Analytics Track,2024-07-31
+STU-0034,Naveen Patil,naveenpatil44@edutrack.in,Delhi,Career Switcher,2025-05-26
+STU-0035,Jyoti Kulkarni,jyotikulkarni45@edutrack.in,Pune,Data Analyst Track,2024-04-30
+STU-0036,Sunil Shinde,sunilshinde46@edutrack.in,Mumbai,Full Stack + ML,2024-03-15
+STU-0037,Manisha Deshpande,manishadeshpande47@edutrack.in,Pune,Career Switcher,2024-01-12
+STU-0038,Anil Bhosale,anilbhosale48@edutrack.in,Bengaluru,Career Switcher,2024-12-11
+STU-0039,Sushma Jadhav,sushmajadhav49@edutrack.in,Kolkata,Data Analyst Track,2025-02-12
+STU-0040,Ramesh Salunkhe,rameshsalunkhe50@edutrack.in,Kolkata,Full Stack + ML,2025-01-30
+STU-0041,Lata Pawar,latapawar51@edutrack.in,Delhi,Analytics Track,2024-04-04
+STU-0042,Dilip Mane,dilipmane52@edutrack.in,Bengaluru,Data Analyst Track,2025-01-16
+STU-0043,Vimala Chavan,vimalachavan53@edutrack.in,Ahmedabad,Analytics Track,2024-08-23
+STU-0044,Poornima Shetty,poornimashetty54@edutrack.in,Chennai,Full Stack + ML,2024-11-14
+STU-0045,Girish Naik,girishnaik55@edutrack.in,Delhi,AI/ML Enthusiast,2024-08-11
+STU-0046,Savitha Bhat,savithabhat56@edutrack.in,Kolkata,Data Analyst Track,2024-10-30
+STU-0047,Prakash Shenoy,prakashshenoy57@edutrack.in,Hyderabad,Analytics Track,2025-03-24
+STU-0048,Nandita Kamath,nanditakamath58@edutrack.in,Pune,Analytics Track,2024-03-12
+STU-0049,Venkatesh Rao,venkateshrao59@edutrack.in,Pune,Career Switcher,2024-11-24
+STU-0050,Madhuri Kulkarni,madhurikulkarni60@edutrack.in,Kochi,Analytics Track,2024-05-10
+STU-0051,Prasanna Gowda,prasannagowda61@edutrack.in,Kolkata,Full Stack + ML,2024-10-24
+STU-0052,Bharati Naik,bharatinaik62@edutrack.in,Jaipur,Analytics Track,2024-06-12
+STU-0053,Satish Pai,satishpai63@edutrack.in,Kolkata,Full Stack + ML,2025-03-26
+STU-0054,Shobha Kini,shobhakini64@edutrack.in,Kolkata,Data Analyst Track,2024-12-10
+STU-0055,Harish Bangera,harishbangera65@edutrack.in,Delhi,Data Analyst Track,2024-01-05
+STU-0056,Suma Prabhu,sumaprabhu66@edutrack.in,Pune,Full Stack + ML,2024-07-16
+STU-0057,Ganesh Nayak,ganeshnayak67@edutrack.in,Pune,Data Analyst Track,2025-03-02
+STU-0058,Vidya Acharya,vidyaacharya68@edutrack.in,Kolkata,Data Analyst Track,2024-12-19
+STU-0059,Murali Shetty,muralishetty69@edutrack.in,Bengaluru,Analytics Track,2024-04-25
+STU-0060,Padma Rao,padmarao70@edutrack.in,Kochi,Career Switcher,2024-07-26
+STU-0061,Shashank Hegde,shashankhegde71@edutrack.in,Kochi,AI/ML Enthusiast,2024-11-13
+STU-0062,Usha Naik,ushanaik72@edutrack.in,Kochi,Data Analyst Track,2025-03-30
+STU-0063,Sudhir Prabhu,sudhirprabhu73@edutrack.in,Pune,Data Analyst Track,2025-03-02
+STU-0064,Nalini Bhat,nalinibhat74@edutrack.in,Kochi,Analytics Track,2024-10-21
+STU-0065,Ashwin Shetty,ashwinshetty75@edutrack.in,Bengaluru,Data Analyst Track,2024-04-17
+STU-0066,Sandhya Rao,sandhyarao76@edutrack.in,Hyderabad,Full Stack + ML,2024-02-02
+STU-0067,Mohan Nair,mohannair77@edutrack.in,Kolkata,AI/ML Enthusiast,2024-11-02
+STU-0068,Indu Pillai,indupillai78@edutrack.in,Kochi,Full Stack + ML,2024-10-29
+STU-0069,Jayesh Thakkar,jayeshthakkar79@edutrack.in,Hyderabad,Data Analyst Track,2025-02-08
+STU-0070,Hemal Patel,hemalpatel80@edutrack.in,Mumbai,Analytics Track,2024-09-28
+STU-0071,Dhruv Joshi,dhruvjoshi81@edutrack.in,Delhi,Analytics Track,2024-05-11
+STU-0072,Krupa Desai,krupadesai82@edutrack.in,Ahmedabad,Data Analyst Track,2025-02-02
+STU-0073,Mitul Shah,mitulshah83@edutrack.in,Kochi,Analytics Track,2024-07-02
+STU-0074,Foram Mehta,forammehta84@edutrack.in,Pune,Full Stack + ML,2024-07-31
+STU-0075,Hetal Kapadia,hetalkapadia85@edutrack.in,Ahmedabad,Full Stack + ML,2025-01-26
+STU-0076,Viral Patel,viralpatel86@edutrack.in,Ahmedabad,Data Analyst Track,2025-05-02
+STU-0077,Bansari Trivedi,bansaritrivedi87@edutrack.in,Hyderabad,Data Analyst Track,2024-09-02
+STU-0078,Hardik Bhatt,hardikbhatt88@edutrack.in,Kochi,Analytics Track,2024-01-16
+STU-0079,Nirali Shah,niralishah89@edutrack.in,Delhi,AI/ML Enthusiast,2025-05-20
+STU-0080,Rishi Parmar,rishiparmar90@edutrack.in,Delhi,AI/ML Enthusiast,2024-01-05
+STU-0081,Zalak Desai,zalakdesai91@edutrack.in,Kochi,Career Switcher,2024-10-08
+STU-0082,Chintan Modi,chintanmodi92@edutrack.in,Jaipur,AI/ML Enthusiast,2024-11-22
+STU-0083,Priyal Jain,priyaljain93@edutrack.in,Pune,Analytics Track,2024-06-18
+STU-0084,Rutvik Panchal,rutvikpanchal94@edutrack.in,Jaipur,Data Analyst Track,2024-02-18
+STU-0085,Pooja Rawal,poojarawal95@edutrack.in,Bengaluru,Analytics Track,2024-02-18
+STU-0086,Manav Gandhi,manavgandhi96@edutrack.in,Kochi,Full Stack + ML,2024-08-23
+STU-0087,Sweta Vyas,swetavyas97@edutrack.in,Pune,Career Switcher,2024-06-11
+STU-0088,Jigar Solanki,jigarsolanki98@edutrack.in,Bengaluru,Analytics Track,2025-03-03
+STU-0089,Bhavik Nair,bhaviknair99@edutrack.in,Chennai,Data Analyst Track,2024-04-29
+STU-0090,Tejal Mehta,tejalmehta10@edutrack.in,Mumbai,Analytics Track,2024-10-06
+STU-0091,Keval Sutaria,kevalsutaria11@edutrack.in,Delhi,Full Stack + ML,2024-03-13
+STU-0092,Varsha Rajput,varsharajput12@edutrack.in,Chennai,Career Switcher,2024-06-26
+STU-0093,Sonal Pathak,sonalpathak13@edutrack.in,Kochi,Full Stack + ML,2024-03-24
+STU-0094,Darshan Trivedi,darshantrivedi14@edutrack.in,Mumbai,AI/ML Enthusiast,2024-05-20
+STU-0095,Priti Bhavsar,pritibhavsar15@edutrack.in,Kochi,Data Analyst Track,2024-03-29
+STU-0096,Yash Pandya,yashpandya16@edutrack.in,Kochi,AI/ML Enthusiast,2025-01-23
+STU-0097,Kruti Bhatt,krutibhatt17@edutrack.in,Delhi,Data Analyst Track,2024-08-25
+STU-0098,Mihir Chauhan,mihirchauhan18@edutrack.in,Jaipur,Career Switcher,2024-06-13
+STU-0099,Riddhi Patel,riddhipatel19@edutrack.in,Bengaluru,Full Stack + ML,2024-12-16
+STU-0100,Neel Shah,neelshah20@edutrack.in,Chennai,Analytics Track,2024-11-10
+STU-0101,Khushi Joshi,khushijoshi21@edutrack.in,Hyderabad,Data Analyst Track,2024-05-30
+STU-0102,Vedant Thakkar,vedantthakkar22@edutrack.in,Kochi,Analytics Track,2024-01-13
+STU-0103,Reet Desai,reetdesai23@edutrack.in,Kolkata,Data Analyst Track,2024-04-09
+STU-0104,Aarav Shah,aaravshah24@edutrack.in,Jaipur,Data Analyst Track,2025-03-30
+STU-0105,Priya Menon,priyamenon25@edutrack.in,Hyderabad,Career Switcher,2024-06-14
+STU-0106,Rohan Verma,rohanverma26@edutrack.in,Ahmedabad,Data Analyst Track,2025-01-17
+STU-0107,Divya Nair,divyanair27@edutrack.in,Delhi,Full Stack + ML,2024-02-16
+STU-0108,Kiran Patel,kiranpatel28@edutrack.in,Kolkata,Career Switcher,2024-01-21
+STU-0109,Sneha Joshi,snehajoshi29@edutrack.in,Mumbai,Full Stack + ML,2024-05-15
+STU-0110,Arjun Reddy,arjunreddy30@edutrack.in,Pune,AI/ML Enthusiast,2024-10-29
+STU-0111,Ananya Iyer,ananyaiyer31@edutrack.in,Hyderabad,Full Stack + ML,2025-05-19
+STU-0112,Vikram Singh,vikramsingh32@edutrack.in,Hyderabad,Analytics Track,2024-02-11
+STU-0113,Pooja Sharma,poojasharma33@edutrack.in,Mumbai,Full Stack + ML,2024-11-20
+STU-0114,Rahul Kumar,rahulkumar34@edutrack.in,Delhi,Full Stack + ML,2024-02-05
+STU-0115,Lakshmi Rao,lakshmirao35@edutrack.in,Pune,Analytics Track,2024-08-20
+STU-0116,Suresh Gupta,sureshgupta36@edutrack.in,Mumbai,Career Switcher,2024-01-19
+STU-0117,Nisha Pillai,nishapillai37@edutrack.in,Kolkata,Full Stack + ML,2025-03-05
+STU-0118,Aditya Bose,adityabose38@edutrack.in,Chennai,Career Switcher,2024-06-27
+STU-0119,Meena Thomas,meenathomas39@edutrack.in,Kolkata,Career Switcher,2024-02-25
+STU-0120,Rajesh Nair,rajeshnair40@edutrack.in,Chennai,Data Analyst Track,2024-09-23
+STU-0121,Kavitha Srinivas,kavithasrinivas41@edutrack.in,Jaipur,Data Analyst Track,2024-04-06
+STU-0122,Deepak Choudhary,deepakchoudhary42@edutrack.in,Bengaluru,Analytics Track,2024-01-30
+STU-0123,Sunita Tiwari,sunitatiwari43@edutrack.in,Mumbai,Data Analyst Track,2024-07-03
+STU-0124,Manoj Pandey,manojpandey44@edutrack.in,Bengaluru,Full Stack + ML,2024-09-17
+STU-0125,Geeta Malhotra,geetamalhotra45@edutrack.in,Jaipur,Data Analyst Track,2025-03-16
+STU-0126,Sanjay Dubey,sanjaydubey46@edutrack.in,Bengaluru,Data Analyst Track,2024-02-06
+STU-0127,Anita Jain,anitajain47@edutrack.in,Kolkata,Career Switcher,2025-04-01
+STU-0128,Varun Kapoor,varunkapoor48@edutrack.in,Mumbai,AI/ML Enthusiast,2024-08-26
+STU-0129,Swati Mishra,swatimishra49@edutrack.in,Kolkata,Full Stack + ML,2024-05-15
+STU-0130,Nikhil Chauhan,nikhilchauhan50@edutrack.in,Jaipur,Analytics Track,2024-04-03
+STU-0131,Ritu Aggarwal,rituaggarwal51@edutrack.in,Kochi,Full Stack + ML,2024-06-12
+STU-0132,Ajay Bansal,ajaybansal52@edutrack.in,Jaipur,Data Analyst Track,2025-05-11
+STU-0133,Smita Desai,smitadesai53@edutrack.in,Hyderabad,Data Analyst Track,2025-03-22
+STU-0134,Ravi Hegde,ravihegde54@edutrack.in,Chennai,Career Switcher,2024-06-26
+STU-0135,Uma Krishnan,umakrishnan55@edutrack.in,Ahmedabad,Data Analyst Track,2024-09-11
+STU-0136,Dinesh Gowda,dineshgowda56@edutrack.in,Pune,Data Analyst Track,2024-06-20
+STU-0137,Rekha Rao,rekharao57@edutrack.in,Kochi,Career Switcher,2024-03-20
+STU-0138,Naveen Patil,naveenpatil58@edutrack.in,Chennai,Data Analyst Track,2025-06-21
+STU-0139,Jyoti Kulkarni,jyotikulkarni59@edutrack.in,Kolkata,Data Analyst Track,2025-02-08
+STU-0140,Sunil Shinde,sunilshinde60@edutrack.in,Kochi,Career Switcher,2024-03-15
+STU-0141,Manisha Deshpande,manishadeshpande61@edutrack.in,Pune,Data Analyst Track,2024-11-27
+STU-0142,Anil Bhosale,anilbhosale62@edutrack.in,Delhi,Career Switcher,2025-05-22
+STU-0143,Sushma Jadhav,sushmajadhav63@edutrack.in,Hyderabad,Data Analyst Track,2024-01-31
+STU-0144,Ramesh Salunkhe,rameshsalunkhe64@edutrack.in,Kolkata,AI/ML Enthusiast,2024-03-04
+STU-0145,Lata Pawar,latapawar65@edutrack.in,Chennai,Full Stack + ML,2024-02-21
+STU-0146,Dilip Mane,dilipmane66@edutrack.in,Mumbai,Full Stack + ML,2024-10-01
+STU-0147,Vimala Chavan,vimalachavan67@edutrack.in,Bengaluru,Full Stack + ML,2024-10-29
+STU-0148,Poornima Shetty,poornimashetty68@edutrack.in,Delhi,Data Analyst Track,2024-04-26
+STU-0149,Girish Naik,girishnaik69@edutrack.in,Delhi,Data Analyst Track,2025-02-02
+STU-0150,Savitha Bhat,savithabhat70@edutrack.in,Pune,Data Analyst Track,2024-09-23
+STU-0151,Prakash Shenoy,prakashshenoy71@edutrack.in,Ahmedabad,Data Analyst Track,2024-02-27
+STU-0152,Nandita Kamath,nanditakamath72@edutrack.in,Delhi,AI/ML Enthusiast,2024-08-25
+STU-0153,Venkatesh Rao,venkateshrao73@edutrack.in,Jaipur,Data Analyst Track,2024-03-21
+STU-0154,Madhuri Kulkarni,madhurikulkarni74@edutrack.in,Bengaluru,Analytics Track,2025-01-02
+STU-0155,Prasanna Gowda,prasannagowda75@edutrack.in,Kolkata,Full Stack + ML,2024-09-07
+STU-0156,Bharati Naik,bharatinaik76@edutrack.in,Mumbai,Career Switcher,2024-03-16
+STU-0157,Satish Pai,satishpai77@edutrack.in,Bengaluru,AI/ML Enthusiast,2024-06-29
+STU-0158,Shobha Kini,shobhakini78@edutrack.in,Chennai,Data Analyst Track,2024-12-17
+STU-0159,Harish Bangera,harishbangera79@edutrack.in,Pune,Career Switcher,2024-03-13
+STU-0160,Suma Prabhu,sumaprabhu80@edutrack.in,Kolkata,AI/ML Enthusiast,2024-04-26
+STU-0161,Ganesh Nayak,ganeshnayak81@edutrack.in,Hyderabad,Analytics Track,2025-01-13
+STU-0162,Vidya Acharya,vidyaacharya82@edutrack.in,Kolkata,Analytics Track,2025-01-19
+STU-0163,Murali Shetty,muralishetty83@edutrack.in,Pune,Career Switcher,2024-11-30
+STU-0164,Padma Rao,padmarao84@edutrack.in,Hyderabad,Full Stack + ML,2024-10-06
+STU-0165,Shashank Hegde,shashankhegde85@edutrack.in,Chennai,Career Switcher,2024-03-06
+STU-0166,Usha Naik,ushanaik86@edutrack.in,Chennai,AI/ML Enthusiast,2024-09-30
+STU-0167,Sudhir Prabhu,sudhirprabhu87@edutrack.in,Jaipur,Full Stack + ML,2024-04-14
+STU-0168,Nalini Bhat,nalinibhat88@edutrack.in,Pune,Full Stack + ML,2024-09-05
+STU-0169,Ashwin Shetty,ashwinshetty89@edutrack.in,Ahmedabad,Data Analyst Track,2025-03-31
+STU-0170,Sandhya Rao,sandhyarao90@edutrack.in,Bengaluru,Career Switcher,2024-09-25
+STU-0171,Mohan Nair,mohannair91@edutrack.in,Kolkata,AI/ML Enthusiast,2024-05-04
+STU-0172,Indu Pillai,indupillai92@edutrack.in,Pune,AI/ML Enthusiast,2025-05-21
+STU-0173,Jayesh Thakkar,jayeshthakkar93@edutrack.in,Kolkata,Analytics Track,2024-11-24
+STU-0174,Hemal Patel,hemalpatel94@edutrack.in,Chennai,Career Switcher,2024-04-18
+STU-0175,Dhruv Joshi,dhruvjoshi95@edutrack.in,Kolkata,Full Stack + ML,2024-08-01
+STU-0176,Krupa Desai,krupadesai96@edutrack.in,Jaipur,AI/ML Enthusiast,2024-10-13
+STU-0177,Mitul Shah,mitulshah97@edutrack.in,Ahmedabad,Analytics Track,2024-12-12
+STU-0178,Foram Mehta,forammehta98@edutrack.in,Hyderabad,Career Switcher,2024-01-21
+STU-0179,Hetal Kapadia,hetalkapadia99@edutrack.in,Jaipur,AI/ML Enthusiast,2024-03-26
+STU-0180,Viral Patel,viralpatel10@edutrack.in,Kolkata,Data Analyst Track,2024-07-15
+STU-0181,Bansari Trivedi,bansaritrivedi11@edutrack.in,Jaipur,Analytics Track,2024-01-19
+STU-0182,Hardik Bhatt,hardikbhatt12@edutrack.in,Hyderabad,AI/ML Enthusiast,2024-11-24
+STU-0183,Nirali Shah,niralishah13@edutrack.in,Chennai,Data Analyst Track,2024-04-19
+STU-0184,Rishi Parmar,rishiparmar14@edutrack.in,Kolkata,AI/ML Enthusiast,2024-10-20
+STU-0185,Zalak Desai,zalakdesai15@edutrack.in,Mumbai,Data Analyst Track,2024-10-20
+STU-0186,Chintan Modi,chintanmodi16@edutrack.in,Kolkata,Data Analyst Track,2024-04-17
+STU-0187,Priyal Jain,priyaljain17@edutrack.in,Mumbai,Full Stack + ML,2025-03-04
+STU-0188,Rutvik Panchal,rutvikpanchal18@edutrack.in,Hyderabad,Analytics Track,2024-03-20
+STU-0189,Pooja Rawal,poojarawal19@edutrack.in,Kochi,Full Stack + ML,2024-11-07
+STU-0190,Manav Gandhi,manavgandhi20@edutrack.in,Mumbai,Full Stack + ML,2024-10-07
+STU-0191,Sweta Vyas,swetavyas21@edutrack.in,Bengaluru,AI/ML Enthusiast,2024-03-12
+STU-0192,Jigar Solanki,jigarsolanki22@edutrack.in,Ahmedabad,Full Stack + ML,2025-02-04
+STU-0193,Bhavik Nair,bhaviknair23@edutrack.in,Pune,Data Analyst Track,2025-05-10
+STU-0194,Tejal Mehta,tejalmehta24@edutrack.in,Kochi,Data Analyst Track,2024-11-09
+STU-0195,Keval Sutaria,kevalsutaria25@edutrack.in,Pune,Analytics Track,2025-05-27
+STU-0196,Varsha Rajput,varsharajput26@edutrack.in,Mumbai,Full Stack + ML,2025-04-15
+STU-0197,Sonal Pathak,sonalpathak27@edutrack.in,Mumbai,Full Stack + ML,2024-07-13
+STU-0198,Darshan Trivedi,darshantrivedi28@edutrack.in,Kochi,Full Stack + ML,2024-05-11
+STU-0199,Priti Bhavsar,pritibhavsar29@edutrack.in,Chennai,Career Switcher,2024-12-29
+STU-0200,Yash Pandya,yashpandya30@edutrack.in,Kochi,Career Switcher,2024-03-13
+STU-0201,Kruti Bhatt,krutibhatt31@edutrack.in,Kochi,Data Analyst Track,2025-03-21
+STU-0202,Mihir Chauhan,mihirchauhan32@edutrack.in,Jaipur,Data Analyst Track,2024-01-01
+STU-0203,Riddhi Patel,riddhipatel33@edutrack.in,Kolkata,Full Stack + ML,2024-03-25
+STU-0204,Neel Shah,neelshah34@edutrack.in,Kolkata,AI/ML Enthusiast,2024-03-31
+STU-0205,Khushi Joshi,khushijoshi35@edutrack.in,Ahmedabad,Analytics Track,2024-04-19
+STU-0206,Vedant Thakkar,vedantthakkar36@edutrack.in,Bengaluru,AI/ML Enthusiast,2024-07-18
+STU-0207,Reet Desai,reetdesai37@edutrack.in,Chennai,AI/ML Enthusiast,2024-11-01
+STU-0208,Aarav Shah,aaravshah38@edutrack.in,Hyderabad,Data Analyst Track,2024-05-30
+STU-0209,Priya Menon,priyamenon39@edutrack.in,Pune,Full Stack + ML,2024-06-26
+STU-0210,Rohan Verma,rohanverma40@edutrack.in,Chennai,Career Switcher,2024-04-01
+STU-0211,Divya Nair,divyanair41@edutrack.in,Hyderabad,Career Switcher,2024-11-27
+STU-0212,Kiran Patel,kiranpatel42@edutrack.in,Chennai,AI/ML Enthusiast,2024-10-31
+STU-0213,Sneha Joshi,snehajoshi43@edutrack.in,Delhi,Analytics Track,2025-05-31
+STU-0214,Arjun Reddy,arjunreddy44@edutrack.in,Ahmedabad,AI/ML Enthusiast,2024-09-13
+STU-0215,Ananya Iyer,ananyaiyer45@edutrack.in,Kochi,Analytics Track,2024-12-23
+STU-0216,Vikram Singh,vikramsingh46@edutrack.in,Delhi,Data Analyst Track,2024-05-13
+STU-0217,Pooja Sharma,poojasharma47@edutrack.in,Delhi,AI/ML Enthusiast,2024-08-25
+STU-0218,Rahul Kumar,rahulkumar48@edutrack.in,Kochi,Data Analyst Track,2025-03-10
+STU-0219,Lakshmi Rao,lakshmirao49@edutrack.in,Mumbai,Analytics Track,2024-12-21
+STU-0220,Suresh Gupta,sureshgupta50@edutrack.in,Mumbai,Career Switcher,2025-06-14
+STU-0221,Nisha Pillai,nishapillai51@edutrack.in,Pune,Career Switcher,2024-01-22
+STU-0222,Aditya Bose,adityabose52@edutrack.in,Jaipur,AI/ML Enthusiast,2024-12-18
+STU-0223,Meena Thomas,meenathomas53@edutrack.in,Mumbai,Data Analyst Track,2025-03-22
+STU-0224,Rajesh Nair,rajeshnair54@edutrack.in,Hyderabad,AI/ML Enthusiast,2024-11-23
+STU-0225,Kavitha Srinivas,kavithasrinivas55@edutrack.in,Pune,Career Switcher,2025-01-06
+STU-0226,Deepak Choudhary,deepakchoudhary56@edutrack.in,Kochi,Data Analyst Track,2024-12-02
+STU-0227,Sunita Tiwari,sunitatiwari57@edutrack.in,Kochi,AI/ML Enthusiast,2024-10-29
+STU-0228,Manoj Pandey,manojpandey58@edutrack.in,Delhi,AI/ML Enthusiast,2025-03-09
+STU-0229,Geeta Malhotra,geetamalhotra59@edutrack.in,Mumbai,Data Analyst Track,2024-02-11
+STU-0230,Sanjay Dubey,sanjaydubey60@edutrack.in,Hyderabad,Data Analyst Track,2025-05-01
+STU-0231,Anita Jain,anitajain61@edutrack.in,Kolkata,Analytics Track,2025-01-23
+STU-0232,Varun Kapoor,varunkapoor62@edutrack.in,Jaipur,Full Stack + ML,2025-01-21
+STU-0233,Swati Mishra,swatimishra63@edutrack.in,Hyderabad,Full Stack + ML,2024-07-27
+STU-0234,Nikhil Chauhan,nikhilchauhan64@edutrack.in,Mumbai,Full Stack + ML,2024-03-05
+STU-0235,Ritu Aggarwal,rituaggarwal65@edutrack.in,Hyderabad,Full Stack + ML,2024-01-05
+STU-0236,Ajay Bansal,ajaybansal66@edutrack.in,Kolkata,Full Stack + ML,2024-11-16
+STU-0237,Smita Desai,smitadesai67@edutrack.in,Chennai,Career Switcher,2024-05-07
+STU-0238,Ravi Hegde,ravihegde68@edutrack.in,Pune,Career Switcher,2024-10-09
+STU-0239,Uma Krishnan,umakrishnan69@edutrack.in,Mumbai,Analytics Track,2024-05-18
+STU-0240,Dinesh Gowda,dineshgowda70@edutrack.in,Pune,Data Analyst Track,2024-01-28
+STU-0241,Rekha Rao,rekharao71@edutrack.in,Kochi,Career Switcher,2024-09-25
+STU-0242,Naveen Patil,naveenpatil72@edutrack.in,Chennai,Data Analyst Track,2025-02-25
+STU-0243,Jyoti Kulkarni,jyotikulkarni73@edutrack.in,Kochi,Career Switcher,2024-05-11
+STU-0244,Sunil Shinde,sunilshinde74@edutrack.in,Pune,Full Stack + ML,2025-03-20
+STU-0245,Manisha Deshpande,manishadeshpande75@edutrack.in,Hyderabad,Analytics Track,2024-12-19
+STU-0246,Anil Bhosale,anilbhosale76@edutrack.in,Ahmedabad,AI/ML Enthusiast,2024-08-21
+STU-0247,Sushma Jadhav,sushmajadhav77@edutrack.in,Hyderabad,Analytics Track,2025-05-26
+STU-0248,Ramesh Salunkhe,rameshsalunkhe78@edutrack.in,Chennai,Full Stack + ML,2025-06-03
+STU-0249,Lata Pawar,latapawar79@edutrack.in,Mumbai,AI/ML Enthusiast,2025-04-09
+STU-0250,Dilip Mane,dilipmane80@edutrack.in,Delhi,AI/ML Enthusiast,2024-05-12
+STU-0251,Vimala Chavan,vimalachavan81@edutrack.in,Kochi,Full Stack + ML,2024-02-11
+STU-0252,Poornima Shetty,poornimashetty82@edutrack.in,Bengaluru,AI/ML Enthusiast,2024-08-09
+STU-0253,Girish Naik,girishnaik83@edutrack.in,Ahmedabad,AI/ML Enthusiast,2024-07-26
+STU-0254,Savitha Bhat,savithabhat84@edutrack.in,Ahmedabad,Career Switcher,2025-05-23
+STU-0255,Prakash Shenoy,prakashshenoy85@edutrack.in,Chennai,AI/ML Enthusiast,2024-02-15
+STU-0256,Nandita Kamath,nanditakamath86@edutrack.in,Chennai,Career Switcher,2024-06-08
+STU-0257,Venkatesh Rao,venkateshrao87@edutrack.in,Mumbai,Analytics Track,2024-05-08
+STU-0258,Madhuri Kulkarni,madhurikulkarni88@edutrack.in,Ahmedabad,Career Switcher,2024-10-22
+STU-0259,Prasanna Gowda,prasannagowda89@edutrack.in,Bengaluru,Career Switcher,2024-02-03
+STU-0260,Bharati Naik,bharatinaik90@edutrack.in,Bengaluru,Full Stack + ML,2024-02-03
+STU-0261,Satish Pai,satishpai91@edutrack.in,Jaipur,Data Analyst Track,2025-02-06
+STU-0262,Shobha Kini,shobhakini92@edutrack.in,Ahmedabad,Full Stack + ML,2024-05-19
+STU-0263,Harish Bangera,harishbangera93@edutrack.in,Jaipur,Full Stack + ML,2024-12-22
+STU-0264,Suma Prabhu,sumaprabhu94@edutrack.in,Bengaluru,Data Analyst Track,2024-12-03
+STU-0265,Ganesh Nayak,ganeshnayak95@edutrack.in,Delhi,Career Switcher,2024-07-24
+STU-0266,Vidya Acharya,vidyaacharya96@edutrack.in,Pune,Analytics Track,2024-06-30
+STU-0267,Murali Shetty,muralishetty97@edutrack.in,Pune,Career Switcher,2025-05-05
+STU-0268,Padma Rao,padmarao98@edutrack.in,Kolkata,AI/ML Enthusiast,2025-02-26
+STU-0269,Shashank Hegde,shashankhegde99@edutrack.in,Jaipur,Full Stack + ML,2024-11-06
+STU-0270,Usha Naik,ushanaik10@edutrack.in,Bengaluru,Analytics Track,2024-06-25
+STU-0271,Sudhir Prabhu,sudhirprabhu11@edutrack.in,Pune,AI/ML Enthusiast,2024-08-25
+STU-0272,Nalini Bhat,nalinibhat12@edutrack.in,Bengaluru,Data Analyst Track,2024-06-12
+STU-0273,Ashwin Shetty,ashwinshetty13@edutrack.in,Chennai,Career Switcher,2024-11-02
+STU-0274,Sandhya Rao,sandhyarao14@edutrack.in,Delhi,Full Stack + ML,2025-02-06
+STU-0275,Mohan Nair,mohannair15@edutrack.in,Kolkata,Full Stack + ML,2024-06-14
+STU-0276,Indu Pillai,indupillai16@edutrack.in,Delhi,Full Stack + ML,2024-06-18
+STU-0277,Jayesh Thakkar,jayeshthakkar17@edutrack.in,Mumbai,AI/ML Enthusiast,2025-04-19
+STU-0278,Hemal Patel,hemalpatel18@edutrack.in,Pune,Analytics Track,2025-05-07
+STU-0279,Dhruv Joshi,dhruvjoshi19@edutrack.in,Mumbai,Full Stack + ML,2024-12-01
+STU-0280,Krupa Desai,krupadesai20@edutrack.in,Mumbai,Career Switcher,2024-02-19
+STU-0281,Mitul Shah,mitulshah21@edutrack.in,Kolkata,Career Switcher,2024-06-06
+STU-0282,Foram Mehta,forammehta22@edutrack.in,Chennai,Analytics Track,2025-05-27
+STU-0283,Hetal Kapadia,hetalkapadia23@edutrack.in,Kolkata,AI/ML Enthusiast,2024-12-04
+STU-0284,Viral Patel,viralpatel24@edutrack.in,Kochi,Analytics Track,2024-11-19
+STU-0285,Bansari Trivedi,bansaritrivedi25@edutrack.in,Chennai,Full Stack + ML,2024-03-06
+STU-0286,Hardik Bhatt,hardikbhatt26@edutrack.in,Chennai,AI/ML Enthusiast,2024-09-10
+STU-0287,Nirali Shah,niralishah27@edutrack.in,Mumbai,Analytics Track,2024-09-07
+STU-0288,Rishi Parmar,rishiparmar28@edutrack.in,Chennai,Analytics Track,2024-12-15
+STU-0289,Zalak Desai,zalakdesai29@edutrack.in,Mumbai,AI/ML Enthusiast,2024-03-01
+STU-0290,Chintan Modi,chintanmodi30@edutrack.in,Hyderabad,AI/ML Enthusiast,2025-04-27
+STU-0291,Priyal Jain,priyaljain31@edutrack.in,Chennai,Analytics Track,2024-09-25
+STU-0292,Rutvik Panchal,rutvikpanchal32@edutrack.in,Delhi,Analytics Track,2025-06-01
+STU-0293,Pooja Rawal,poojarawal33@edutrack.in,Mumbai,AI/ML Enthusiast,2025-03-14
+STU-0294,Manav Gandhi,manavgandhi34@edutrack.in,Kolkata,Career Switcher,2024-11-22
+STU-0295,Sweta Vyas,swetavyas35@edutrack.in,Mumbai,Full Stack + ML,2024-05-26
+STU-0296,Jigar Solanki,jigarsolanki36@edutrack.in,Jaipur,Analytics Track,2025-01-18
+STU-0297,Bhavik Nair,bhaviknair37@edutrack.in,Ahmedabad,Data Analyst Track,2025-03-30
+STU-0298,Tejal Mehta,tejalmehta38@edutrack.in,Mumbai,Analytics Track,2025-04-10
+STU-0299,Keval Sutaria,kevalsutaria39@edutrack.in,Ahmedabad,Career Switcher,2024-11-03
+STU-0300,Varsha Rajput,varsharajput40@edutrack.in,Ahmedabad,Career Switcher,2025-04-20
+STU-0301,Sonal Pathak,sonalpathak41@edutrack.in,Ahmedabad,AI/ML Enthusiast,2024-02-04
+STU-0302,Darshan Trivedi,darshantrivedi42@edutrack.in,Chennai,Analytics Track,2024-05-04
+STU-0303,Priti Bhavsar,pritibhavsar43@edutrack.in,Ahmedabad,Full Stack + ML,2024-01-12
+STU-0304,Yash Pandya,yashpandya44@edutrack.in,Kolkata,Analytics Track,2024-11-17
+STU-0305,Kruti Bhatt,krutibhatt45@edutrack.in,Chennai,AI/ML Enthusiast,2024-05-09
+STU-0306,Mihir Chauhan,mihirchauhan46@edutrack.in,Kochi,AI/ML Enthusiast,2025-03-15
+STU-0307,Riddhi Patel,riddhipatel47@edutrack.in,Bengaluru,Career Switcher,2024-04-25
+STU-0308,Neel Shah,neelshah48@edutrack.in,Jaipur,Data Analyst Track,2024-07-12
+STU-0309,Khushi Joshi,khushijoshi49@edutrack.in,Chennai,Data Analyst Track,2024-09-16
+STU-0310,Vedant Thakkar,vedantthakkar50@edutrack.in,Delhi,AI/ML Enthusiast,2024-03-02
+STU-0311,Reet Desai,reetdesai51@edutrack.in,Chennai,AI/ML Enthusiast,2024-02-09
+STU-0312,Aarav Shah,aaravshah52@edutrack.in,Chennai,Data Analyst Track,2024-07-30
+STU-0313,Priya Menon,priyamenon53@edutrack.in,Kochi,Data Analyst Track,2024-01-07
+STU-0314,Rohan Verma,rohanverma54@edutrack.in,Ahmedabad,Data Analyst Track,2024-09-27
+STU-0315,Divya Nair,divyanair55@edutrack.in,Delhi,Analytics Track,2025-01-10
+STU-0316,Kiran Patel,kiranpatel56@edutrack.in,Delhi,Full Stack + ML,2024-09-06
+STU-0317,Sneha Joshi,snehajoshi57@edutrack.in,Bengaluru,Full Stack + ML,2025-04-07
+STU-0318,Arjun Reddy,arjunreddy58@edutrack.in,Mumbai,AI/ML Enthusiast,2024-02-12
+STU-0319,Ananya Iyer,ananyaiyer59@edutrack.in,Kolkata,Data Analyst Track,2024-10-16
+STU-0320,Vikram Singh,vikramsingh60@edutrack.in,Delhi,Full Stack + ML,2024-07-09
+STU-0321,Pooja Sharma,poojasharma61@edutrack.in,Delhi,Analytics Track,2024-11-04
+STU-0322,Rahul Kumar,rahulkumar62@edutrack.in,Ahmedabad,Analytics Track,2024-01-15
+STU-0323,Lakshmi Rao,lakshmirao63@edutrack.in,Bengaluru,Analytics Track,2024-09-18
+STU-0324,Suresh Gupta,sureshgupta64@edutrack.in,Jaipur,Career Switcher,2024-04-02
+STU-0325,Nisha Pillai,nishapillai65@edutrack.in,Hyderabad,Full Stack + ML,2024-01-29
+STU-0326,Aditya Bose,adityabose66@edutrack.in,Delhi,Analytics Track,2024-01-04
+STU-0327,Meena Thomas,meenathomas67@edutrack.in,Delhi,Data Analyst Track,2025-01-02
+STU-0328,Rajesh Nair,rajeshnair68@edutrack.in,Jaipur,Full Stack + ML,2024-12-13
+STU-0329,Kavitha Srinivas,kavithasrinivas69@edutrack.in,Delhi,Full Stack + ML,2024-09-28
+STU-0330,Deepak Choudhary,deepakchoudhary70@edutrack.in,Mumbai,Analytics Track,2024-08-24
+STU-0331,Sunita Tiwari,sunitatiwari71@edutrack.in,Kochi,Full Stack + ML,2024-03-21
+STU-0332,Manoj Pandey,manojpandey72@edutrack.in,Ahmedabad,AI/ML Enthusiast,2024-03-14
+STU-0333,Geeta Malhotra,geetamalhotra73@edutrack.in,Chennai,AI/ML Enthusiast,2024-04-24
+STU-0334,Sanjay Dubey,sanjaydubey74@edutrack.in,Kolkata,Full Stack + ML,2024-11-24
+STU-0335,Anita Jain,anitajain75@edutrack.in,Chennai,Data Analyst Track,2024-02-25
+STU-0336,Varun Kapoor,varunkapoor76@edutrack.in,Kochi,Data Analyst Track,2024-09-14
+STU-0337,Swati Mishra,swatimishra77@edutrack.in,Kolkata,Career Switcher,2024-06-20
+STU-0338,Nikhil Chauhan,nikhilchauhan78@edutrack.in,Delhi,AI/ML Enthusiast,2024-11-17
+STU-0339,Ritu Aggarwal,rituaggarwal79@edutrack.in,Kolkata,Data Analyst Track,2024-10-02
+STU-0340,Ajay Bansal,ajaybansal80@edutrack.in,Mumbai,Analytics Track,2024-06-22
+STU-0341,Smita Desai,smitadesai81@edutrack.in,Bengaluru,Career Switcher,2024-03-04
+STU-0342,Ravi Hegde,ravihegde82@edutrack.in,Bengaluru,Data Analyst Track,2024-11-08
+STU-0343,Uma Krishnan,umakrishnan83@edutrack.in,Ahmedabad,Full Stack + ML,2024-05-28
+STU-0344,Dinesh Gowda,dineshgowda84@edutrack.in,Mumbai,AI/ML Enthusiast,2024-10-21
+STU-0345,Rekha Rao,rekharao85@edutrack.in,Jaipur,Full Stack + ML,2024-09-22
+STU-0346,Naveen Patil,naveenpatil86@edutrack.in,Delhi,Data Analyst Track,2024-09-01
+STU-0347,Jyoti Kulkarni,jyotikulkarni87@edutrack.in,Chennai,AI/ML Enthusiast,2024-09-16
+STU-0348,Sunil Shinde,sunilshinde88@edutrack.in,Hyderabad,Analytics Track,2024-03-26
+STU-0349,Manisha Deshpande,manishadeshpande89@edutrack.in,Mumbai,Career Switcher,2024-01-02
+STU-0350,Anil Bhosale,anilbhosale90@edutrack.in,Chennai,Career Switcher,2024-11-20
+STU-0351,Sushma Jadhav,sushmajadhav91@edutrack.in,Kolkata,Analytics Track,2025-01-03
+STU-0352,Ramesh Salunkhe,rameshsalunkhe92@edutrack.in,Jaipur,Data Analyst Track,2024-08-26
+STU-0353,Lata Pawar,latapawar93@edutrack.in,Kolkata,Data Analyst Track,2025-06-05
+STU-0354,Dilip Mane,dilipmane94@edutrack.in,Pune,Analytics Track,2025-03-02
+STU-0355,Vimala Chavan,vimalachavan95@edutrack.in,Ahmedabad,Data Analyst Track,2024-08-20
+STU-0356,Poornima Shetty,poornimashetty96@edutrack.in,Kochi,Full Stack + ML,2024-02-08
+STU-0357,Girish Naik,girishnaik97@edutrack.in,Delhi,Data Analyst Track,2025-04-23
+STU-0358,Savitha Bhat,savithabhat98@edutrack.in,Hyderabad,Data Analyst Track,2024-02-09
+STU-0359,Prakash Shenoy,prakashshenoy99@edutrack.in,Bengaluru,Data Analyst Track,2024-07-21
+STU-0360,Nandita Kamath,nanditakamath10@edutrack.in,Kolkata,Full Stack + ML,2024-01-16
+STU-0361,Venkatesh Rao,venkateshrao11@edutrack.in,Hyderabad,AI/ML Enthusiast,2024-06-22
+STU-0362,Madhuri Kulkarni,madhurikulkarni12@edutrack.in,Chennai,AI/ML Enthusiast,2024-03-30
+STU-0363,Prasanna Gowda,prasannagowda13@edutrack.in,Hyderabad,AI/ML Enthusiast,2024-03-11
+STU-0364,Bharati Naik,bharatinaik14@edutrack.in,Bengaluru,AI/ML Enthusiast,2024-10-02
+STU-0365,Satish Pai,satishpai15@edutrack.in,Delhi,Full Stack + ML,2024-06-27
+STU-0366,Shobha Kini,shobhakini16@edutrack.in,Kolkata,Analytics Track,2024-02-18
+STU-0367,Harish Bangera,harishbangera17@edutrack.in,Mumbai,Analytics Track,2025-04-25
+STU-0368,Suma Prabhu,sumaprabhu18@edutrack.in,Kochi,Data Analyst Track,2025-04-19
+STU-0369,Ganesh Nayak,ganeshnayak19@edutrack.in,Hyderabad,Full Stack + ML,2024-12-28
+STU-0370,Vidya Acharya,vidyaacharya20@edutrack.in,Pune,Data Analyst Track,2024-11-10
+STU-0371,Murali Shetty,muralishetty21@edutrack.in,Bengaluru,Career Switcher,2024-08-09
+STU-0372,Padma Rao,padmarao22@edutrack.in,Bengaluru,Data Analyst Track,2025-06-11
+STU-0373,Shashank Hegde,shashankhegde23@edutrack.in,Delhi,Career Switcher,2024-08-29
+STU-0374,Usha Naik,ushanaik24@edutrack.in,Ahmedabad,Career Switcher,2024-04-23
+STU-0375,Sudhir Prabhu,sudhirprabhu25@edutrack.in,Kochi,Full Stack + ML,2025-03-02
+STU-0376,Nalini Bhat,nalinibhat26@edutrack.in,Hyderabad,Data Analyst Track,2024-02-04
+STU-0377,Ashwin Shetty,ashwinshetty27@edutrack.in,Ahmedabad,Data Analyst Track,2024-05-02
+STU-0378,Sandhya Rao,sandhyarao28@edutrack.in,Chennai,Data Analyst Track,2024-05-13
+STU-0379,Mohan Nair,mohannair29@edutrack.in,Kolkata,Data Analyst Track,2024-03-20
+STU-0380,Indu Pillai,indupillai30@edutrack.in,Pune,Career Switcher,2024-03-23
+STU-0381,Jayesh Thakkar,jayeshthakkar31@edutrack.in,Chennai,Data Analyst Track,2025-06-13
+STU-0382,Hemal Patel,hemalpatel32@edutrack.in,Bengaluru,Career Switcher,2025-03-27
+STU-0383,Dhruv Joshi,dhruvjoshi33@edutrack.in,Ahmedabad,Career Switcher,2024-10-04
+STU-0384,Krupa Desai,krupadesai34@edutrack.in,Pune,Career Switcher,2025-06-15
+STU-0385,Mitul Shah,mitulshah35@edutrack.in,Mumbai,Analytics Track,2025-04-20
+STU-0386,Foram Mehta,forammehta36@edutrack.in,Delhi,Career Switcher,2025-05-04
+STU-0387,Hetal Kapadia,hetalkapadia37@edutrack.in,Kochi,Data Analyst Track,2024-04-21
+STU-0388,Viral Patel,viralpatel38@edutrack.in,Hyderabad,Data Analyst Track,2024-03-12
+STU-0389,Bansari Trivedi,bansaritrivedi39@edutrack.in,Jaipur,Data Analyst Track,2024-08-29
+STU-0390,Hardik Bhatt,hardikbhatt40@edutrack.in,Mumbai,Career Switcher,2025-06-20
+STU-0391,Nirali Shah,niralishah41@edutrack.in,Kolkata,Career Switcher,2024-10-25
+STU-0392,Rishi Parmar,rishiparmar42@edutrack.in,Pune,AI/ML Enthusiast,2025-01-29
+STU-0393,Zalak Desai,zalakdesai43@edutrack.in,Delhi,Data Analyst Track,2024-02-23
+STU-0394,Chintan Modi,chintanmodi44@edutrack.in,Jaipur,AI/ML Enthusiast,2024-07-21
+STU-0395,Priyal Jain,priyaljain45@edutrack.in,Pune,Career Switcher,2025-01-04
+STU-0396,Rutvik Panchal,rutvikpanchal46@edutrack.in,Mumbai,Data Analyst Track,2025-05-08
+STU-0397,Pooja Rawal,poojarawal47@edutrack.in,Jaipur,Full Stack + ML,2025-04-19
+STU-0398,Manav Gandhi,manavgandhi48@edutrack.in,Delhi,Data Analyst Track,2025-01-16
+STU-0399,Sweta Vyas,swetavyas49@edutrack.in,Chennai,Data Analyst Track,2024-10-11
+STU-0400,Jigar Solanki,jigarsolanki50@edutrack.in,Chennai,Full Stack + ML,2025-06-03
+STU-0401,Bhavik Nair,bhaviknair51@edutrack.in,Hyderabad,Career Switcher,2025-05-09
+STU-0402,Tejal Mehta,tejalmehta52@edutrack.in,Mumbai,Career Switcher,2025-05-02
+STU-0403,Keval Sutaria,kevalsutaria53@edutrack.in,Pune,Full Stack + ML,2025-04-15
+STU-0404,Varsha Rajput,varsharajput54@edutrack.in,Chennai,Data Analyst Track,2024-11-07
+STU-0405,Sonal Pathak,sonalpathak55@edutrack.in,Kochi,AI/ML Enthusiast,2025-04-15
+STU-0406,Darshan Trivedi,darshantrivedi56@edutrack.in,Bengaluru,Full Stack + ML,2025-01-08
+STU-0407,Priti Bhavsar,pritibhavsar57@edutrack.in,Kolkata,AI/ML Enthusiast,2024-05-10
+STU-0408,Yash Pandya,yashpandya58@edutrack.in,Kochi,Career Switcher,2024-10-05
+STU-0409,Kruti Bhatt,krutibhatt59@edutrack.in,Hyderabad,Career Switcher,2024-05-22
+STU-0410,Mihir Chauhan,mihirchauhan60@edutrack.in,Kochi,Analytics Track,2024-07-05
+STU-0411,Riddhi Patel,riddhipatel61@edutrack.in,Delhi,Career Switcher,2024-07-18
+STU-0412,Neel Shah,neelshah62@edutrack.in,Bengaluru,Data Analyst Track,2025-06-08
+STU-0413,Khushi Joshi,khushijoshi63@edutrack.in,Ahmedabad,AI/ML Enthusiast,2024-04-17
+STU-0414,Vedant Thakkar,vedantthakkar64@edutrack.in,Kolkata,Career Switcher,2024-11-08
+STU-0415,Reet Desai,reetdesai65@edutrack.in,Kolkata,Career Switcher,2025-06-16
+STU-0416,Aarav Shah,aaravshah66@edutrack.in,Bengaluru,Analytics Track,2024-03-26
+STU-0417,Priya Menon,priyamenon67@edutrack.in,Jaipur,Analytics Track,2025-01-12
+STU-0418,Rohan Verma,rohanverma68@edutrack.in,Delhi,Data Analyst Track,2024-11-27
+STU-0419,Divya Nair,divyanair69@edutrack.in,Bengaluru,AI/ML Enthusiast,2024-05-02
+STU-0420,Kiran Patel,kiranpatel70@edutrack.in,Chennai,Data Analyst Track,2024-10-18
+STU-0421,Sneha Joshi,snehajoshi71@edutrack.in,Chennai,Career Switcher,2024-08-22
+STU-0422,Arjun Reddy,arjunreddy72@edutrack.in,Ahmedabad,Career Switcher,2024-02-15
+STU-0423,Ananya Iyer,ananyaiyer73@edutrack.in,Chennai,Full Stack + ML,2025-01-26
+STU-0424,Vikram Singh,vikramsingh74@edutrack.in,Pune,Analytics Track,2024-02-28
+STU-0425,Pooja Sharma,poojasharma75@edutrack.in,Chennai,Data Analyst Track,2024-03-29
+STU-0426,Rahul Kumar,rahulkumar76@edutrack.in,Kolkata,AI/ML Enthusiast,2024-07-07
+STU-0427,Lakshmi Rao,lakshmirao77@edutrack.in,Kolkata,Career Switcher,2024-05-30
+STU-0428,Suresh Gupta,sureshgupta78@edutrack.in,Jaipur,Data Analyst Track,2025-03-13
+STU-0429,Nisha Pillai,nishapillai79@edutrack.in,Hyderabad,Full Stack + ML,2024-03-26
+STU-0430,Aditya Bose,adityabose80@edutrack.in,Delhi,AI/ML Enthusiast,2025-05-14
+STU-0431,Meena Thomas,meenathomas81@edutrack.in,Chennai,Data Analyst Track,2025-05-31
+STU-0432,Rajesh Nair,rajeshnair82@edutrack.in,Hyderabad,AI/ML Enthusiast,2025-02-12
+STU-0433,Kavitha Srinivas,kavithasrinivas83@edutrack.in,Kochi,Data Analyst Track,2024-10-26
+STU-0434,Deepak Choudhary,deepakchoudhary84@edutrack.in,Chennai,Analytics Track,2024-12-04
+STU-0435,Sunita Tiwari,sunitatiwari85@edutrack.in,Kolkata,Career Switcher,2024-11-29
+STU-0436,Manoj Pandey,manojpandey86@edutrack.in,Ahmedabad,Data Analyst Track,2024-05-19
+STU-0437,Geeta Malhotra,geetamalhotra87@edutrack.in,Mumbai,Data Analyst Track,2025-02-21
+STU-0438,Sanjay Dubey,sanjaydubey88@edutrack.in,Ahmedabad,Analytics Track,2024-09-15
+STU-0439,Anita Jain,anitajain89@edutrack.in,Kolkata,Full Stack + ML,2024-12-25
+STU-0440,Varun Kapoor,varunkapoor90@edutrack.in,Jaipur,AI/ML Enthusiast,2025-06-11
+STU-0441,Swati Mishra,swatimishra91@edutrack.in,Chennai,AI/ML Enthusiast,2025-05-17
+STU-0442,Nikhil Chauhan,nikhilchauhan92@edutrack.in,Kochi,Career Switcher,2024-01-22
+STU-0443,Ritu Aggarwal,rituaggarwal93@edutrack.in,Kolkata,Analytics Track,2024-02-28
+STU-0444,Ajay Bansal,ajaybansal94@edutrack.in,Hyderabad,Data Analyst Track,2025-03-28
+STU-0445,Smita Desai,smitadesai95@edutrack.in,Kolkata,Career Switcher,2025-05-06
+STU-0446,Ravi Hegde,ravihegde96@edutrack.in,Chennai,AI/ML Enthusiast,2024-08-18
+STU-0447,Uma Krishnan,umakrishnan97@edutrack.in,Chennai,AI/ML Enthusiast,2025-02-01
+STU-0448,Dinesh Gowda,dineshgowda98@edutrack.in,Mumbai,Data Analyst Track,2024-08-17
+STU-0449,Rekha Rao,rekharao99@edutrack.in,Kolkata,Full Stack + ML,2024-12-31
+STU-0450,Naveen Patil,naveenpatil10@edutrack.in,Jaipur,AI/ML Enthusiast,2025-05-05
+STU-0451,Jyoti Kulkarni,jyotikulkarni11@edutrack.in,Chennai,AI/ML Enthusiast,2025-02-26
+STU-0452,Sunil Shinde,sunilshinde12@edutrack.in,Kolkata,Career Switcher,2024-05-17
+STU-0453,Manisha Deshpande,manishadeshpande13@edutrack.in,Delhi,AI/ML Enthusiast,2024-11-24
+STU-0454,Anil Bhosale,anilbhosale14@edutrack.in,Pune,Data Analyst Track,2025-01-08
+STU-0455,Sushma Jadhav,sushmajadhav15@edutrack.in,Chennai,AI/ML Enthusiast,2025-04-28
+STU-0456,Ramesh Salunkhe,rameshsalunkhe16@edutrack.in,Ahmedabad,Full Stack + ML,2025-01-13
+STU-0457,Lata Pawar,latapawar17@edutrack.in,Kolkata,Career Switcher,2024-06-10
+STU-0458,Dilip Mane,dilipmane18@edutrack.in,Hyderabad,AI/ML Enthusiast,2025-06-09
+STU-0459,Vimala Chavan,vimalachavan19@edutrack.in,Kochi,AI/ML Enthusiast,2024-11-21
+STU-0460,Poornima Shetty,poornimashetty20@edutrack.in,Pune,Career Switcher,2025-04-19
+STU-0461,Girish Naik,girishnaik21@edutrack.in,Bengaluru,AI/ML Enthusiast,2025-04-28
+STU-0462,Savitha Bhat,savithabhat22@edutrack.in,Mumbai,Data Analyst Track,2024-10-21
+STU-0463,Prakash Shenoy,prakashshenoy23@edutrack.in,Delhi,Analytics Track,2024-02-07
+STU-0464,Nandita Kamath,nanditakamath24@edutrack.in,Pune,Data Analyst Track,2025-05-05
+STU-0465,Venkatesh Rao,venkateshrao25@edutrack.in,Jaipur,Career Switcher,2025-02-09
+STU-0466,Madhuri Kulkarni,madhurikulkarni26@edutrack.in,Chennai,AI/ML Enthusiast,2024-03-30
+STU-0467,Prasanna Gowda,prasannagowda27@edutrack.in,Kochi,Analytics Track,2024-06-06
+STU-0468,Bharati Naik,bharatinaik28@edutrack.in,Mumbai,Data Analyst Track,2025-05-01
+STU-0469,Satish Pai,satishpai29@edutrack.in,Hyderabad,Full Stack + ML,2025-04-29
+STU-0470,Shobha Kini,shobhakini30@edutrack.in,Hyderabad,Career Switcher,2025-04-07
+STU-0471,Harish Bangera,harishbangera31@edutrack.in,Jaipur,Career Switcher,2024-05-28
+STU-0472,Suma Prabhu,sumaprabhu32@edutrack.in,Kochi,AI/ML Enthusiast,2024-06-07
+STU-0473,Ganesh Nayak,ganeshnayak33@edutrack.in,Chennai,Analytics Track,2024-08-19
+STU-0474,Vidya Acharya,vidyaacharya34@edutrack.in,Mumbai,Full Stack + ML,2024-05-26
+STU-0475,Murali Shetty,muralishetty35@edutrack.in,Pune,AI/ML Enthusiast,2024-10-12
+STU-0476,Padma Rao,padmarao36@edutrack.in,Ahmedabad,Full Stack + ML,2024-07-22
+STU-0477,Shashank Hegde,shashankhegde37@edutrack.in,Ahmedabad,Analytics Track,2024-11-13
+STU-0478,Usha Naik,ushanaik38@edutrack.in,Kochi,AI/ML Enthusiast,2025-05-26
+STU-0479,Sudhir Prabhu,sudhirprabhu39@edutrack.in,Delhi,AI/ML Enthusiast,2024-08-20
+STU-0480,Nalini Bhat,nalinibhat40@edutrack.in,Delhi,Data Analyst Track,2024-01-12
+STU-0481,Ashwin Shetty,ashwinshetty41@edutrack.in,Mumbai,AI/ML Enthusiast,2025-03-18
+STU-0482,Sandhya Rao,sandhyarao42@edutrack.in,Bengaluru,Career Switcher,2024-12-16
+STU-0483,Mohan Nair,mohannair43@edutrack.in,Kolkata,Career Switcher,2025-01-23
+STU-0484,Indu Pillai,indupillai44@edutrack.in,Chennai,Full Stack + ML,2024-03-09
+STU-0485,Jayesh Thakkar,jayeshthakkar45@edutrack.in,Jaipur,Full Stack + ML,2024-06-17
+STU-0486,Hemal Patel,hemalpatel46@edutrack.in,Mumbai,Career Switcher,2024-04-20
+STU-0487,Dhruv Joshi,dhruvjoshi47@edutrack.in,Kochi,AI/ML Enthusiast,2024-12-26
+STU-0488,Krupa Desai,krupadesai48@edutrack.in,Bengaluru,Analytics Track,2024-11-30
+STU-0489,Mitul Shah,mitulshah49@edutrack.in,Pune,Full Stack + ML,2024-05-31
+STU-0490,Foram Mehta,forammehta50@edutrack.in,Chennai,AI/ML Enthusiast,2024-02-25
+STU-0491,Hetal Kapadia,hetalkapadia51@edutrack.in,Hyderabad,Full Stack + ML,2024-03-27
+STU-0492,Viral Patel,viralpatel52@edutrack.in,Kolkata,Career Switcher,2025-06-18
+STU-0493,Bansari Trivedi,bansaritrivedi53@edutrack.in,Pune,AI/ML Enthusiast,2025-05-31
+STU-0494,Hardik Bhatt,hardikbhatt54@edutrack.in,Ahmedabad,AI/ML Enthusiast,2024-08-16
+STU-0495,Nirali Shah,niralishah55@edutrack.in,Mumbai,Data Analyst Track,2025-01-04
+STU-0496,Rishi Parmar,rishiparmar56@edutrack.in,Delhi,AI/ML Enthusiast,2025-06-05
+STU-0497,Zalak Desai,zalakdesai57@edutrack.in,Kolkata,Full Stack + ML,2024-03-14
+STU-0498,Chintan Modi,chintanmodi58@edutrack.in,Jaipur,Data Analyst Track,2025-05-17
+STU-0499,Priyal Jain,priyaljain59@edutrack.in,Delhi,Data Analyst Track,2024-10-02
+STU-0500,Rutvik Panchal,rutvikpanchal60@edutrack.in,Hyderabad,Analytics Track,2024-01-15
